@@ -1,8 +1,11 @@
-# React + Vite
+# ReactJS Shopping List 🥽🧾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![alt text](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpiha5fXoanfmDGLv-OKk0d4-fsm1M09gZ147OJjVxjxqRTwtRBMUxViV9KYDGwjYQelJnFHro9_RFdFk_ta4AtQBHEvTLMuMhoZI)
 
-Currently, two official plugins are available:
+## Keep it simple. ✨
+In this project I've used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ReactJS
+- Framer motion
+
+to create this actually cool looking app.
